@@ -1,0 +1,8 @@
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.deps.json
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.csprojAssemblyReference.cache
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.AssemblyInfo.cs
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Domain\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.pdb

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebApiCoreClientes.Domain.Services/1.0.0": {
+        "dependencies": {
+          "WebApiCoreClientes.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebApiCoreClientes.Domain.Services.dll": {}
+        }
+      },
+      "WebApiCoreClientes.Application.DTO/1.0.0": {
+        "runtime": {
+          "WebApiCoreClientes.Application.DTO.dll": {}
+        }
+      },
+      "WebApiCoreClientes.Domain/1.0.0": {
+        "runtime": {
+          "WebApiCoreClientes.Domain.dll": {}
+        }
+      },
+      "WebApiCoreClientes.Domain.Core/1.0.0": {
+        "dependencies": {
+          "WebApiCoreClientes.Application.DTO": "1.0.0",
+          "WebApiCoreClientes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApiCoreClientes.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiCoreClientes.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiCoreClientes.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiCoreClientes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiCoreClientes.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

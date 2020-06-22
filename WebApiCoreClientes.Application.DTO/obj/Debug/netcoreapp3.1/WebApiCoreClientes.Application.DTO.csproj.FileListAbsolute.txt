@@ -1,0 +1,7 @@
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.deps.json
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.AssemblyInfo.cs
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application.DTO\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.pdb

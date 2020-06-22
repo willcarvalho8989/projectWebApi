@@ -1,0 +1,17 @@
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.deps.json
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.Core.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Mapper.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Application.DTO.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.Core.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Mapper.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\bin\Debug\netcoreapp3.1\WebApiCoreClientes.Domain.pdb
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.csprojAssemblyReference.cache
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.AssemblyInfoInputs.cache
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.AssemblyInfo.cs
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.csproj.CopyComplete
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.dll
+C:\Users\william\source\repos\WebApiCoreClientes\WebApiCoreClientes.Application\obj\Debug\netcoreapp3.1\WebApiCoreClientes.Application.pdb
